@@ -15,4 +15,5 @@
         jdbc.password=密码
         
 ## 环境
-    建议使用Java8和tomcat8
+    1.建议使用Java8和tomcat8
+    2.本工程采用IntelliJ IDEA + Maven搭建

@@ -1,7 +1,6 @@
 package com.kaer.athena.users.controller;
 
 import com.kaer.athena.users.service.UserService;
-import com.kaer.athena.users.service.impl.UserServiceImpl;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
